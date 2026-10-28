@@ -1,0 +1,2 @@
+:HL["/atelier-noma/_next/static/chunks/08xg_0w2cxdd2.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"studio","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"B9MfdCWKbhamI8UCnv1Xk"}
